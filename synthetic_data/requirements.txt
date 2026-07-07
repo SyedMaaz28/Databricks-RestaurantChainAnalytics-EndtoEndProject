@@ -1,0 +1,4 @@
+azure-eventhub
+pandas
+faker
+python-dotenv
